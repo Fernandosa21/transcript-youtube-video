@@ -3,7 +3,7 @@ Transcript an array of youtube videos into a JSON file
 
 
 # Before running
-You need to add urls to the allvides.js file like this:
+You need to add urls to the allvideos.js file like this:
 ```
 const allVideos = [
     "firstYoutubeUrl",
