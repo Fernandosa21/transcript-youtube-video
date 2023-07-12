@@ -7,7 +7,7 @@ You need to add urls to the allvides.js file like this:
 ```
 const allVideos = [
     "firstYoutubeUrl",
-    "firstYoutubeUrl",
+    "secondYoutubeUrl",
 ];
 
 ```
