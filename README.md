@@ -13,8 +13,8 @@ const allVideos = [
 ```
 
 # How to run
-```node 
-getTranscription.js
+```
+node getTranscription.js
 ```
 
 Then a new ./transcription.json file will appear.
